@@ -1,4 +1,4 @@
-<img width="1598" height="1200" alt="image" src="https://github.com/user-attachments/assets/ef830537-1c66-406c-9bfa-74173ff2a515" /># 🌍 Weather Nomads
+# 🌍 Weather Nomads
 
 *A small atmospheric game about restoring balance in a living world.*
 
